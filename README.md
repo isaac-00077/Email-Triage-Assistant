@@ -4,9 +4,7 @@ An intelligent email analysis tool powered by Groq LLM and ScaleDown API that au
 
 ## Preview
 
-![Email Triage Assistant Interface](./screenshot.png)
-
-
+![Email Triage Assistant Interface](./Screenshot.png)
 
 ## Features
 
